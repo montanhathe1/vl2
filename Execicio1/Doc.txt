@@ -2,12 +2,12 @@ Objetivo:
 Montar uma calculadora que some dois números
 
 Requisitos obrigatórios:
-1. Aplicação roda no console
+1. Aplicação roda no terminal
 2. O resultado deverá ser exibido logo após o comando de execução do cálculo
 3. Todas operações, bem como seus resultados deverão ser guardados em um a lista (esta lista não precisa ser exibida)
 
 Requisitos não obrigatórios
-1. Ao entrar na aplicação ela solicita os dois números para soma
+1. Ao entrar na aplicação ela solicita os dois números para somar
 2. Apos mostrar os resultado, a aplicação retorno ao estado inicial
 3. A aplicação é encerrada digitando x como primeiro número
 4. Antes de sair a aplicação exibir a lista de operação
