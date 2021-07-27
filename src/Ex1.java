@@ -1,3 +1,21 @@
+/*
+	Calculadora que some dois números
+	
+	1. Aplicação roda no terminal
+	2. O resultado deverá ser exibido logo após o comando de execução do cálculo
+	3. Todas operações, bem como seus resultados deverão ser guardados em um a lista
+	4. Ao entrar na aplicação ela solicita os dois números para somar
+	5. Apos mostrar os resultado, a aplicação retorno ao estado inicial
+	6. A aplicação é encerrada digitando x como primeiro número
+	7. Antes de sair a aplicação exibir a lista de operação
+	
+	Desenvolvimento:
+	Tempo de execução máximo: 28/07 às 9h 
+*/
+
+
+
+
 import java.util.Scanner;
 
 public class Ex1 {
